@@ -1,0 +1,27 @@
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-07-28 21:58:40 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 1194ms (Views: 1193.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-07-28 21:58:42 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-07-28 21:58:42 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-07-28 21:58:42 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-07-28 21:58:42 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-07-28 21:58:42 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-07-28 21:58:42 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-07-28 21:58:42 +0100
