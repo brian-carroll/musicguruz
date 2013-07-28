@@ -1,0 +1,32 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset0 Georgia;}
+{\colortbl;\red255\green255\blue255;\red8\green8\blue8;\red234\green234\blue234;\red74\green74\blue74;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl320
+
+\f0\fs28 \cf2 \cb3 # Ignore bundler config.\
+/.bundle\
+\
+# Ignore the default SQLite database.\
+/db/*.sqlite3\
+/db/*.sqlite3-journal\
+\
+# Ignore all logfiles and tempfiles.\
+/log/*.log\
+/tmp\
+\
+# Ignore other unneeded files.\
+database.yml\
+doc/\
+*.swp\
+*~\
+.project\
+.DS_Store\
+.idea\
+.secret\
+\pard\pardeftab720\sl480
+
+\f1\b\fs32 \cf2 \cb4 \
+}
