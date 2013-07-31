@@ -1,11 +1,55 @@
 <div class="center hero-unit">
   <h1>Musicguruz</h1>
 
-  <h2>
-    This is a click-through mock-up for Musicguruz,<br/> the online marketplace for webcam music lessons
+  <h2 class="center">
+		Access to some of the best musicians and teachers in the world
   </h2>
 
-  <%= link_to "Sign up now!", '#', class: "btn btn-large btn-primary" %>
+  <%= link_to "Browse Teachers!", browse_teachers_path, class: "btn btn-large btn-primary" %>
 </div>
 
-<%= link_to image_tag("http://rubyonrails.org/images/rails.png", alt: "Rails"), 'http://rubyonrails.org/' %>
+<div>
+	<h2>
+		How it works
+	</h2>
+	<div class="row" id="howitworks">
+		<div class="span3">
+			Find a teacher that inspires you<br/><br/>
+			Browse our teachers to find one who makes you want to spend all day practising
+		</div>
+		<div class="span3">
+			Work with your teacher online<br/><br/>
+			Our platform uses the latest high definition technology to achieve high quality video and audio
+		</div>
+		<div class="span3">
+			Review your lesson<br/><br/>
+			Don't miss a single nugget - you can record your lesson and review it as many times as you like
+		</div>
+		<div class="span3">
+			Do your homework!<br/><br/>
+			Record your performances and share them online for valuable feedback from your teacher and fellow students
+		</div>
+	</div>
+</div>
+
+<div>
+	<h2>
+		Check out our teachers! What's your vibe?
+	</h2>
+
+	<div class="row center">
+		<div class="span3">
+			<%= link_to "Rock", browse_teachers_path %>
+		</div>
+		<div class="span3">
+			<%= link_to "Jazz", browse_teachers_path %>
+		</div>
+		<div class="span3">
+			<%= link_to "Blues", browse_teachers_path %>
+		</div>
+		<div class="span3">
+			<%= link_to "Pop", browse_teachers_path %>
+		</div>
+	</div>
+
+</div>

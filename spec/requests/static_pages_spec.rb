@@ -33,6 +33,12 @@ describe "Static pages" do
     let(:heading) {'Contact'}
     it_should_behave_like "all static pages"
   end
+
+  describe "Browse teachers" do
+    before { visit browse_teachers_path }
+    let(:heading) {'Browse Teachers'}
+    it_should_behave_like "all static pages"
+  end
   
   it "should have the right links on the layout" do
     visit root_path
@@ -42,9 +48,6 @@ describe "Static pages" do
     expect(page).to have_title(full_title('Help'))
     click_link "Contact"
     expect(page).to have_title(full_title('Contact'))
-    click_link "Home"
-    click_link "Sign up now!"
-    expect(page).to have_title(full_title(''))
     click_link "musicguruz"
     expect(page).to have_title(full_title(''))
   end
