@@ -11,6 +11,6 @@ class StaticPagesController < ApplicationController
   def contact
   end
 
-  def browse_teachers
+  def browse
   end
 end

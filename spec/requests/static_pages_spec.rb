@@ -35,10 +35,15 @@ describe "Static pages" do
   end
 
   describe "Browse teachers" do
-    before { visit browse_teachers_path }
-    let(:heading) {'Browse Teachers'}
-    it_should_behave_like "all static pages"
+    before { visit browse_path }
+    it { should have_title(full_title("Browse Teachers")) }
   end
+ 
+  describe "Teacher" do
+    before { visit teacher_path }
+    it { should have_title(full_title("Dana")) }
+  end
+  
   
   it "should have the right links on the layout" do
     visit root_path

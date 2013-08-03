@@ -2780,3 +2780,3134 @@ Processing by StaticPagesController#browse_teachers as HTML
   Rendered layouts/_header.html.erb (0.4ms)
   Rendered layouts/_footer.html.erb (0.7ms)
 Completed 200 OK in 21ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-03 12:48:01 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (14.6ms)
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (2.7ms)
+  Rendered layouts/_footer.html.erb (1.7ms)
+Completed 200 OK in 124ms (Views: 110.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:01 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:01 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:01 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:01 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:01 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:01 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:01 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:01 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-03 12:48:18 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:18 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:18 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:18 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:18 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:18 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:18 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:18 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:18 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-03 12:48:24 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 17ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:24 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:24 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:24 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:24 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:24 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:24 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:24 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:24 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-03 12:48:38 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 44ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:39 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:39 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:39 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:39 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 12:48:39 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:39 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:39 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 12:48:39 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-03 13:15:45 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.9ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 26ms (Views: 23.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:15:45 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:15:45 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:15:45 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:15:45 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:15:45 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:15:45 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:15:45 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:15:45 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:15:47 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/browse.html.erb within layouts/application (6.1ms)
+Completed 500 Internal Server Error in 15ms
+
+ActionView::Template::Error (Missing partial static_pages/_teacher_browse with {:locale=>[:en], :formats=>[:html, :xml], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/brian/Dev/rails_projects/musicguruz/app/views"
+):
+    13: 	
+    14: 	<div class='span9'>
+    15: 		
+    16: 		<%= render 'static_pages/_teacher_browse' %>
+    17: 		
+    18: 	</div>
+    19: </div>
+  app/views/static_pages/browse.html.erb:16:in `_app_views_static_pages_browse_html_erb__1302873513926602542_70112815162900'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.9ms)
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.6ms)
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (34.1ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:15:47 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/browse.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (Missing partial static_pages/_teacher_browse with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/brian/Dev/rails_projects/musicguruz/app/views"
+):
+    13: 	
+    14: 	<div class='span9'>
+    15: 		
+    16: 		<%= render 'static_pages/_teacher_browse' %>
+    17: 		
+    18: 	</div>
+    19: </div>
+  app/views/static_pages/browse.html.erb:16:in `_app_views_static_pages_browse_html_erb__1302873513926602542_70112815661920'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (8.7ms)
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.1ms)
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (32.1ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:18:15 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/browse.html.erb within layouts/application (9.1ms)
+Completed 500 Internal Server Error in 20ms
+
+ActionView::Template::Error (Missing partial static_pages/_teacher_browse with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/brian/Dev/rails_projects/musicguruz/app/views"
+):
+    13: 	
+    14: 	<div class='span9'>
+    15: 		
+    16: 		<%= render 'static_pages/_teacher_browse' %>
+    17: 		
+    18: 	</div>
+    19: </div>
+  app/views/static_pages/browse.html.erb:16:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297172338600'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (34.7ms)
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (57.9ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:18:18 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/browse.html.erb within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (Missing partial static_pages/_teacher_browse with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/brian/Dev/rails_projects/musicguruz/app/views"
+):
+    13: 	
+    14: 	<div class='span9'>
+    15: 		
+    16: 		<%= render 'static_pages/_teacher_browse' %>
+    17: 		
+    18: 	</div>
+    19: </div>
+  app/views/static_pages/browse.html.erb:16:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297172338600'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (20.5ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:20:19 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/browse.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 138ms (Views: 136.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:20:19 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:19 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:19 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:20:19 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:19 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:20:19 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:19 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:19 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:20:55 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/browse.html.erb within layouts/application (2.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:20:55 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:55 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:55 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:20:55 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:55 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:55 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:20:55 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:20:55 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:21:12 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (1.1ms)
+  Rendered static_pages/browse.html.erb within layouts/application (2.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:12 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:12 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:12 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:12 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:12 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:12 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:12 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:12 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:21:28 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.6ms)
+  Rendered static_pages/browse.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 78ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:28 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:29 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:29 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:29 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:29 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:29 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:29 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:29 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:21:32 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/browse.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:32 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:32 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:32 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:32 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:32 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:32 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:32 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:32 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:21:47 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/browse.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:47 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:47 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:47 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:48 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:48 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:48 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:21:48 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:21:48 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:22:12 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (15.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 29ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:22:12 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:22:12 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:22:12 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:22:12 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:22:12 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:22:12 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:22:12 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:22:12 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:24:03 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.6ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (15.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:24:03 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:24:03 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:24:03 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:24:03 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:24:03 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:24:03 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:24:03 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:24:03 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:25:59 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (13.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 28ms (Views: 27.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:25:59 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:25:59 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:25:59 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:25:59 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:25:59 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:25:59 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:25:59 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:25:59 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:28:35 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (26.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 41ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:28:35 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:35 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:28:35 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:35 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:35 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:35 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:35 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:28:35 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:28:43 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (15.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 29ms (Views: 28.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:28:43 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:43 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:43 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:28:43 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:44 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:28:44 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:44 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:44 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:28:55 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.7ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (24.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:55 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:28:55 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:55 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:55 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:28:55 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:55 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:28:55 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:28:55 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:29:08 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (12.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 72ms (Views: 71.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:29:08 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:29:08 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:29:08 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:08 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:08 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:08 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:08 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:08 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:29:25 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (12.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:29:25 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:29:25 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:25 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:25 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:25 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:29:25 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:25 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:25 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:29:57 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (17.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 54ms (Views: 53.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:29:57 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:29:57 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:57 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:57 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:57 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:29:57 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:57 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:29:57 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:30:09 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (18.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:30:09 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:09 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:09 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:30:09 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:09 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:09 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:09 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:30:09 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:30:14 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (22.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 91ms (Views: 88.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:15 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:15 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:30:15 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:15 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:30:15 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:15 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:30:15 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:30:15 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:31:50 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (18.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (2.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 38.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:31:50 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:31:50 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:31:50 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:31:50 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:31:50 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:31:50 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:31:50 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:31:50 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:32:27 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (21.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:32:27 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:27 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:27 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:32:27 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:27 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:27 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:27 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:32:27 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:32:37 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/browse.html.erb within layouts/application (17.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (4.1ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:32:38 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:32:38 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:32:38 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:38 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:38 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:38 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:38 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:32:38 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:50:40 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.9ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (138.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 163ms (Views: 159.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:50:40 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:50:40 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:50:40 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:50:40 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:50:40 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:50:40 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:50:40 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:50:40 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:51:08 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (28.8ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 45ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:51:09 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:09 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:51:09 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:09 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:09 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:09 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:09 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:51:09 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:51:46 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (37.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 59ms (Views: 57.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:51:46 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:46 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:51:46 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:46 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:51:47 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:47 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:47 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:51:47 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:52:19 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (30.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 47ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:52:19 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:52:19 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:52:19 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:52:19 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:52:19 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:52:19 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:52:19 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:52:19 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:54:06 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (15.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 30ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:06 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:07 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:07 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:07 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:07 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:07 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:07 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:07 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:54:20 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (19.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 41.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:20 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:20 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:20 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:20 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:20 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:20 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:20 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:20 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:54:40 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/browse.html.erb within layouts/application (17.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 35ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:41 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:41 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:41 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:41 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:41 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:41 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:41 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:41 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:54:54 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (15.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 41ms (Views: 39.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:54 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:54 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:54 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:54 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:54 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:54 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:54:54 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:54:54 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:55:09 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (13.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 96ms (Views: 95.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:09 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:09 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:09 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:09 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:09 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:09 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:09 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:09 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:55:16 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (20.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:16 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:16 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:16 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:16 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:16 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:16 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:16 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:16 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:55:43 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (19.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 36ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:44 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:44 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:44 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:44 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:44 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:44 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:44 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:44 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:55:54 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (22.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 47ms (Views: 45.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:55 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:55 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:55 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:55 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:55 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:55 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:55:55 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:55:55 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 13:56:02 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (27.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 54ms (Views: 52.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 13:56:02 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 13:56:02 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 13:56:02 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 13:56:02 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 13:56:02 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 13:56:02 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 13:56:02 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 13:56:02 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:04:36 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (14.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 28ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:04:36 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:04:36 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:36 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:36 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:36 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:36 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:04:36 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:36 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:04:47 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (21.9ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (2.6ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 38ms (Views: 37.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:04:47 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:47 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:47 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:04:47 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:47 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:47 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:04:47 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:04:47 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:06:13 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (16.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (3.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 52ms (Views: 50.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:06:13 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:06:13 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:06:13 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:06:13 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:06:13 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:06:13 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:06:13 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:06:13 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:22:52 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.6ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.7ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (595.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 656ms (Views: 640.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:22:53 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:22:53 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:53 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:53 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:22:53 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:53 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:53 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:53 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:22:59 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (13.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 28ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:22:59 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:59 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:59 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:59 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:22:59 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:59 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:22:59 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:22:59 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:23:36 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.6ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (16.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 31ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:23:36 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:23:36 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:23:36 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:23:36 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:23:36 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:23:36 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:23:36 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:23:36 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:25:03 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (15.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 32ms (Views: 30.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:25:03 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:25:03 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:25:03 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:25:03 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:25:03 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:25:03 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:25:03 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:25:03 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:26:56 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (16.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 33ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:26:57 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:26:57 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:26:57 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:26:57 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:26:57 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:26:57 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:26:57 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:26:57 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:28:03 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (24.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 39ms (Views: 37.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:28:03 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:28:03 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:28:03 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:28:03 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:28:03 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:28:03 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:28:03 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:28:03 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:29:14 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (1.4ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (18.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:29:14 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:29:14 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:29:14 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:29:14 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:29:14 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:29:14 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:29:14 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:29:14 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:30:28 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.6ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (25.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:30:28 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:30:28 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:30:28 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:30:28 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:30:28 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:30:28 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:30:28 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:30:28 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:32:56 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (24.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:32:56 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:32:56 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:32:56 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:32:56 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:32:56 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:32:56 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:32:56 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:32:56 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:35:09 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (20.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 1687ms (Views: 1685.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:35:11 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:11 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:35:11 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:11 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:11 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:35:11 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:11 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:11 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:35:54 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (22.9ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 46ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:35:55 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:35:55 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:55 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:35:55 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:55 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:55 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:55 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:35:55 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:36:38 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (29.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 1424ms (Views: 1422.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:36:39 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:36:39 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:36:39 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:36:39 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:36:39 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:36:39 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:36:39 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:36:39 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:37:23 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (36.8ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 59ms (Views: 58.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:23 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:23 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:23 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:37:23 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:23 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:37:23 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:23 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:37:23 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:37:45 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (13.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 41ms (Views: 40.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:45 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:45 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:37:45 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:45 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:37:45 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:45 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:37:45 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:37:45 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:38:31 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (1.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (2.8ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (21.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 37ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:38:31 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:31 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:31 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:31 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:38:32 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:38:32 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:32 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:32 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:38:48 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.1ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.0ms)
+  Rendered static_pages/browse.html.erb within layouts/application (32.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 105ms (Views: 104.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:49 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:49 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:49 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:38:49 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:49 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:38:49 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:38:49 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:38:49 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:46:00 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.6ms)
+  Rendered static_pages/browse.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 6ms
+
+ActionView::Template::Error (Your template was not saved as valid UTF-8. Please either specify UTF-8 as the encoding for your template in your text editor, or mark the template with its encoding by inserting the following as the first line of the template:
+
+# encoding: <name of correct encoding>.
+
+The source of your template was:
+
+<div class='span3 content' style="height:200px;" >
+	<h4>Beat box with Dana</h4>
+	<img src='http://static.wixstatic.com/media/ea60fa_298c3fa163c45006db5cc938fa3b9497.jpg_srz_140_141_75_22_0.50_1.20_0.00_jpg_srz'>
+	<div class='price'>
+		£30/hour
+	</div>
+</div>
+):
+  app/views/static_pages/browse.html.erb:78:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297194020300'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.2ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:50:54 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/browse.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (Your template was not saved as valid UTF-8. Please either specify UTF-8 as the encoding for your template in your text editor, or mark the template with its encoding by inserting the following as the first line of the template:
+
+# encoding: <name of correct encoding>.
+
+The source of your template was:
+
+<div class='span3 content' style="height:200px;" >
+	<h4>Beat box with Dana</h4>
+	<%= image_tag("dana.jpg", alt: "Dana")  %>
+
+	<div class='price'>
+		£30/hour
+	</div>
+</div>
+):
+  app/views/static_pages/browse.html.erb:78:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297194020300'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.4ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:50:58 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.4ms)
+  Rendered static_pages/browse.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (Your template was not saved as valid UTF-8. Please either specify UTF-8 as the encoding for your template in your text editor, or mark the template with its encoding by inserting the following as the first line of the template:
+
+# encoding: <name of correct encoding>.
+
+The source of your template was:
+
+<div class='span3 content' style="height:200px;" >
+	<h4>Beat box with Dana</h4>
+	<%= image_tag("dana.jpg", alt: "Dana")  %>
+
+	<div class='price'>
+		£30/hour
+	</div>
+</div>
+):
+  app/views/static_pages/browse.html.erb:78:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297194020300'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.1ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:51:22 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (10.4ms)
+  Rendered static_pages/browse.html.erb within layouts/application (11.6ms)
+Completed 500 Internal Server Error in 18ms
+
+ActionView::Template::Error (Your template was not saved as valid UTF-8. Please either specify UTF-8 as the encoding for your template in your text editor, or mark the template with its encoding by inserting the following as the first line of the template:
+
+# encoding: <name of correct encoding>.
+
+The source of your template was:
+
+<div class='span3 content' style="height:200px;" >
+	<h4>Beat box with Dana</h4>
+	<%= image_tag("dana.jpg", alt: "Dana")  %>
+
+	<div class='price'>
+		£30/hour
+	</div>
+</div>
+):
+  app/views/static_pages/browse.html.erb:78:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297194020300'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-03 14:51:25 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:51:25 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:51:25 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:51:25 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:51:25 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:51:25 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:51:25 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:51:25 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:51:25 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:51:27 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/browse.html.erb within layouts/application (3.8ms)
+Completed 500 Internal Server Error in 15ms
+
+ActionView::Template::Error (Your template was not saved as valid UTF-8. Please either specify UTF-8 as the encoding for your template in your text editor, or mark the template with its encoding by inserting the following as the first line of the template:
+
+# encoding: <name of correct encoding>.
+
+The source of your template was:
+
+<div class='span3 content' style="height:200px;" >
+	<h4>Beat box with Dana</h4>
+	<%= image_tag("dana.jpg", alt: "Dana")  %>
+
+	<div class='price'>
+		£30/hour
+	</div>
+</div>
+):
+  app/views/static_pages/browse.html.erb:78:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297203226980'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.9ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:51:28 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.4ms)
+  Rendered static_pages/browse.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (Your template was not saved as valid UTF-8. Please either specify UTF-8 as the encoding for your template in your text editor, or mark the template with its encoding by inserting the following as the first line of the template:
+
+# encoding: <name of correct encoding>.
+
+The source of your template was:
+
+<div class='span3 content' style="height:200px;" >
+	<h4>Beat box with Dana</h4>
+	<%= image_tag("dana.jpg", alt: "Dana")  %>
+
+	<div class='price'>
+		£30/hour
+	</div>
+</div>
+):
+  app/views/static_pages/browse.html.erb:78:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297194020300'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.0ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:53:30 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/browse.html.erb within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (Your template was not saved as valid UTF-8. Please either specify UTF-8 as the encoding for your template in your text editor, or mark the template with its encoding by inserting the following as the first line of the template:
+
+# encoding: <name of correct encoding>.
+
+The source of your template was:
+
+<div class='span3 content' style="height:200px;" >
+	<h4>Beat box with Dana</h4>
+
+	<div class='price'>
+		£30/hour
+	</div>
+</div>
+):
+  app/views/static_pages/browse.html.erb:78:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297194020300'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.5ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:53:33 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/browse.html.erb within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (Your template was not saved as valid UTF-8. Please either specify UTF-8 as the encoding for your template in your text editor, or mark the template with its encoding by inserting the following as the first line of the template:
+
+# encoding: <name of correct encoding>.
+
+The source of your template was:
+
+<div class='span3 content' style="height:200px;" >
+	<h4>Beat box with Dana</h4>
+
+	<div class='price'>
+		£30/hour
+	</div>
+</div>
+):
+  app/views/static_pages/browse.html.erb:78:in `_app_views_static_pages_browse_html_erb___3267594497012689953_70297194020300'
+
+
+  Rendered /Users/brian/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.2ms)
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:55:34 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (6.6ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (1.9ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/browse.html.erb within layouts/application (24.9ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 49ms (Views: 48.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:35 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:35 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:55:35 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:35 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:55:35 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:35 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:35 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:55:35 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-03 14:55:35 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.9ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/browse.html.erb within layouts/application (15.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 56ms (Views: 55.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-03 14:55:47 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.9ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/browse.html.erb within layouts/application (17.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 100ms (Views: 98.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-03 14:56:10 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (0.9ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.2ms)
+  Rendered static_pages/browse.html.erb within layouts/application (24.8ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 53ms (Views: 52.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-03 14:56:53 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-03 15:01:17 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (1.8ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.4ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.7ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.4ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/browse.html.erb within layouts/application (21.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-03 15:01:18 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-03 15:01:18 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-03 15:01:18 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-03 15:01:18 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-03 15:01:18 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-03 15:01:18 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-03 15:01:18 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-03 15:01:18 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-03 15:01:18 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-03 15:01:19 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.7ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (22.5ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 41ms (Views: 40.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-03 15:01:19 +0100

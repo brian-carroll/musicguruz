@@ -1,0 +1,95 @@
+<% provide(:title, 'Browse Teachers') %>
+
+<div class='row'>
+	<div class='span2'>
+		<div id='results_filter' class='content'>
+			<h4>Results filter</h4>
+			<form action="">
+
+				<script>
+					function handleRadio(radio) {
+						if (radio.value == 'instr') {
+							$('#sel_instr').show();
+							$('#sel_voice').hide();
+
+							$('#sel_instr').value('guitar');
+						}
+						if (radio.value == 'voice') {
+							$('#sel_voice').show();
+							$('#sel_instr').hide();
+							$('#sel_voice').value('singing');
+						}
+					}
+					$(document).ready(function() {
+						handleRadio({value: "instr"});
+					});
+				</script>
+
+
+				<input type="radio" name="instr_voice" value="instr" onclick="handleRadio(this)" checked> Instrument<br />
+				<input type="radio" name="instr_voice" value="voice" onclick="handleRadio(this)"> Voice<br />
+				<br />
+				
+				<select id="sel_instr" name="instrument" style="width:100%;">
+					<option value='bass_double'>Bass (double)</option>
+					<option value='bass_electric'>Bass (electric)</option>
+					<option value='drums'>Drums</option>
+					<option value='guitar' selected>Guitar</option>
+					<option value='percussion'>Percussion</option>
+					<option value='piano'>Piano</option>
+					<option value='violin'>Violin</option>
+				</select>
+				
+				<select id="sel_voice" name="voice" style="width:100%;">
+					<option value='beatbox'>Beat-box</option>
+					<option value='rap'>Rap</option>
+					<option value='singing' selected>Singing</option>
+				</select>
+				
+				<select name="style" style="width:100%;">
+					<option value='blues' selected>Blues</option>
+					<option value='classical'>Classical</option>
+					<option value='country'>Country</option>
+					<option value='flamenco'>Flamenco</option>
+					<option value='folk'>Folk</option>
+					<option value='jazz'>Jazz</option>
+					<option value='pop'>Pop</option>
+					<option value='rock'>Rock</option>
+					<option value='world'>World</option>
+				</select>
+				
+				<select name="level" style="width:100%;">
+					<option value='beginner'>Beginner</option>
+					<option value='intermediate'>Intermediate</option>
+					<option value='advanced'>Advanced</option>
+					<option value='dontknow'>Don't know</option>
+				</select>
+			</form>
+		</div>
+		<div id='howitworks' class='content'>
+			<h4>How it works</h4>
+			 Lorem ipsum and all that malarkey, this is a fake explanation of how it all works blah blah blah
+		</div>
+		
+	</div>
+	
+	<div class='span10'>
+		
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		<%= render 'static_pages/teacher_browse' %>
+		
+	</div>
+</div>
+
