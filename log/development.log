@@ -5911,3 +5911,1007 @@ Completed 200 OK in 41ms (Views: 40.7ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-03 15:01:19 +0100
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-05 21:53:25 +0100
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 207ms (Views: 206.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:53:25 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:53:25 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:53:25 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:53:25 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:53:25 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:53:25 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:53:25 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:53:26 +0100
+
+
+Started GET "/browse" for 127.0.0.1 at 2013-08-05 21:53:29 +0100
+Processing by StaticPagesController#browse as HTML
+  Rendered static_pages/_teacher_browse.html.erb (8.0ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.4ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.4ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.5ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.3ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.4ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.7ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.4ms)
+  Rendered static_pages/_teacher_browse.html.erb (0.4ms)
+  Rendered static_pages/browse.html.erb within layouts/application (85.7ms)
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.8ms)
+Completed 200 OK in 111ms (Views: 110.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:53:29 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:53:30 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 21ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:54:23 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:55:54 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 15.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:57:09 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:58:18 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (2.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 28ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:58:18 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:18 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:18 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:18 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:19 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:58:19 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:19 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:58:19 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:58:19 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.2ms)
+  Rendered layouts/_shim.html.erb (15.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 40ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:58:43 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:58:54 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (9.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (2.5ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 214ms (Views: 212.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:58:55 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:58:55 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:55 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:55 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:55 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:55 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:58:55 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:58:55 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:58:55 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:59:15 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:59:36 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (114.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 142ms (Views: 140.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:37 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:59:37 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:37 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:37 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:37 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:37 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:59:37 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:59:37 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:59:37 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 21:59:49 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:00:04 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:00:38 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:00:39 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:00:39 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:00:39 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:39 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:39 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:39 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:39 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:00:39 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:00:39 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:02:00 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 16ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:02:01 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:02:01 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:02:01 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:02:01 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:02:01 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:02:01 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:02:01 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:02:01 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:02:01 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:08:42 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 20ms (Views: 18.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:08:42 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:08:43 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:08:43 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:08:43 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:08:43 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:08:43 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:08:43 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:08:43 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:08:43 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (5.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 47ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:09:12 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:13:28 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:13:29 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:13:29 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:13:29 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:13:29 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:13:29 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:13:29 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:13:29 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:13:29 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:13:29 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:14:05 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:14:06 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:14:06 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:14:06 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:14:06 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:14:06 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:14:06 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:14:06 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:14:06 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:14:06 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 49ms (Views: 47.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:16:00 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 21ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:16:32 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 21ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:16:46 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 34ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:18:13 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:18:55 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (2.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 28ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:18:56 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:56 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:56 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:18:56 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:56 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:18:56 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:56 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:18:56 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:18:56 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:19:40 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 17ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:19:40 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:19:40 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:19:40 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:19:41 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:19:41 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:19:41 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:19:41 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:19:41 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:19:41 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 23ms (Views: 22.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:20:14 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:21:01 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (5.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:21:02 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:21:02 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:21:02 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:21:02 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:21:02 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:21:02 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:21:02 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:21:02 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:21:02 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:22:25 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:26 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:22:26 +0100
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:22:26 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:22:26 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:26 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:26 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:26 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:26 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:22:26 +0100
+
+
+Started GET "/teacher" for 127.0.0.1 at 2013-08-05 22:22:53 +0100
+Processing by StaticPagesController#teacher as HTML
+  Rendered static_pages/teacher.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 18ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2013-08-05 22:22:53 +0100
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:54 +0100
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2013-08-05 22:22:54 +0100
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:54 +0100
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:54 +0100
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:54 +0100
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-05 22:22:54 +0100
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-05 22:22:54 +0100
+
+
+Started GET "/assets/dana.jpg" for 127.0.0.1 at 2013-08-05 22:22:54 +0100
