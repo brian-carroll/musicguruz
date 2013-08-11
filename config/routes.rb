@@ -5,6 +5,7 @@ Musicguruz::Application.routes.draw do
   match '/contact', to: 'static_pages#contact', via: 'get'
   match '/browse', to: 'static_pages#browse', via: 'get'
   match '/teacher', to: 'static_pages#teacher', via: 'get'
+  match '/lesson', to: 'static_pages#lesson', via: 'get'
   
   
   # The priority is based upon order of creation: first created -> highest priority.

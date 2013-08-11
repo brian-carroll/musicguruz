@@ -111,6 +111,9 @@ footer {
     margin-left: 10px;
     border-radius: 10px;
   }
+  p {
+    font-weight: bold;
+  }
 }
 
 .content {
@@ -118,4 +121,12 @@ footer {
   background-color:#eeeeee;
   margin-bottom:20px;
   border-radius: 10px;
+}
+
+
+.filetypes {
+  img {
+    height: 3em;
+    width: 3em;
+  }
 }

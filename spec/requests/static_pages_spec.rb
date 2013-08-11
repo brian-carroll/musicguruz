@@ -43,6 +43,11 @@ describe "Static pages" do
     before { visit teacher_path }
     it { should have_title(full_title("Dana")) }
   end
+ 
+  describe "Lesson" do
+    before { visit lesson_path }
+    it { should have_title(full_title("Lesson")) }
+  end
   
   
   it "should have the right links on the layout" do
